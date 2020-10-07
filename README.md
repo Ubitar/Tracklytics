@@ -1,5 +1,5 @@
 ### Tracklytics : a tracker library in android
-[中文文档](https://github.com/Ubitar/Tracklytics/blob/master/README_CN.md)
+[中文文档](https://github.com/Ubitar/Tracklytics/blob/master/README_CN.md)<br/>
 **Important: the library since from https://github.com/orhanobut/tracklytics**
 I Suggest everyone try to use Original author's library first
 
