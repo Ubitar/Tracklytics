@@ -23,7 +23,7 @@ apply plugin: 'com.hujiang.android-aspectjx'
 And then , Add Tracklytics library for your module
 ```
 dependencies {
-    implementation 'com.ubitar.tracklytics:tracklytics:1.0.3'
+    implementation 'com.ubitar.tracklytics:tracklytics:1.0.0'
 }
 ```
 #### 2、Use

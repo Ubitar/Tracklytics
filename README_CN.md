@@ -22,7 +22,7 @@ apply plugin: 'com.hujiang.android-aspectjx'
 以及引用依赖
 ```
 dependencies {
-    implementation 'com.ubitar.tracklytics:tracklytics:1.0.3'
+    implementation 'com.ubitar.tracklytics:tracklytics:1.0.0'
 }
 ```
 #### 2、使用
